@@ -47,3 +47,7 @@ sudo apt install libgtk-4-media-gstreamer gstreamer1.0-plugins-good gstreamer1.0
 | Delete | Remove the selected playlist item |
 
 Settings are saved to `~/.config/gtk-apps/gtk-player/config.toml`.
+
+## License
+
+GNU General Public License v3.0. See [LICENSE](LICENSE).

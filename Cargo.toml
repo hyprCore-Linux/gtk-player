@@ -3,6 +3,7 @@ name = "gtk-player"
 version = "0.1.0"
 edition = "2021"
 description = "GTK4 audio and video player with a playlist and A-B loop handles"
+license = "GPL-3.0"
 
 [dependencies]
 gtk4 = { version = "0.9", features = ["v4_10"] }
