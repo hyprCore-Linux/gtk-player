@@ -21,7 +21,7 @@ From this directory, with the suite pkg-config stubs on `PKG_CONFIG_PATH` (same 
 ./run.sh
 ```
 
-Runtime packages (Debian / Neuronix):
+Runtime packages (Debian / hyprCore Linux):
 
 ```bash
 sudo apt install libgtk-4-media-gstreamer gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav

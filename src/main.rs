@@ -168,8 +168,6 @@ fn show_about(app: &gtk::Application) {
             "Play video and audio through GStreamer, with a playlist and a loop region on the time bar.",
         )
         .authors(["Created by Kevin Hinds"])
-        .website("https://github.com/NeuronixOS/GTK-Apps")
-        .website_label("github.com/NeuronixOS/GTK-Apps")
         .license_type(gtk::License::Gpl30)
         .build();
     if let Some(win) = app.active_window() {
